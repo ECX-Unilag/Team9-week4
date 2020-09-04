@@ -1,16 +1,13 @@
-# lyrics_app
+# Lyrically App
 
-A new Flutter project.
 
-## Getting Started
+The final project of the ECX internship. This is a lyrics search app built with Dart and Flutter Framework.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+There is no UI for this project.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Link to download the working part of the project
+
+
+https://appsenjoy.com/download/5311fe1d7881236ed997c23cbc34f282.html
